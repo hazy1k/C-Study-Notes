@@ -105,5 +105,3 @@ double d = 3.14159;
 int i = (int)d;
 printf("i = %d\n", i); // 输出i = 3
 ```
-
-
