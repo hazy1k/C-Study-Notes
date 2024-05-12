@@ -252,7 +252,6 @@ int main()
     b = (a == 10) ? 20 : 30; // b = 30
     printf("b的值 = %d\n", b); // 输出b的值
 }
-
 ```
 
 ## 6.7 运算符的优先级
@@ -279,5 +278,3 @@ int main()
     printf("Line 4 - Value of e is %d \n", e);
 }
 ```
-
-
