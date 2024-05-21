@@ -131,9 +131,7 @@ int main()
     printf("整数2：%d\n", b);
     printf("整数3：%d\n", c);
     printf("它们的和是：%d\n", a+b+c);
-    
+
     return 0;
 }
 ```
-
-
